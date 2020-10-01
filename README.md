@@ -1,0 +1,1 @@
+# palindrom-number-in-c
